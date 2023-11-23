@@ -1,0 +1,7 @@
+numpy
+pandas
+notebook
+matplotlib
+seaborn
+wordcloud
+
