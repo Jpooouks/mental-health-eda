@@ -8,7 +8,7 @@
 - Most tech worker are not sure or believe that being labeled with mental illness would hurt their career. About a third of people that underwent this experience reported that it actually hurt their careers.
 - From 2014 to 2016 the amount of people that would not bring up mental health in a job interview decreased by around 20% (From around 80% to 60%) yet in following years (2016-2018) the distrust of bringing up mental health seemed to embody an upwards trend.
 - Generally tech employees have low opinions of the support that their companies provide.
-- Mental health condition diagnosis is similar for most tech workers: most of them get diagnosed with anxiety disorders followed by depression.
+- Mental health condition diagnosis is similar for most tech workers: in terms if frequency most of them get diagnosed with anxiety disorders followed by depression.
  ## Quickstart Guide
  
 
